@@ -3,8 +3,8 @@
 
 每天由 Python 代码随机生成一张数字艺术图。
 
-### 🖼️ 今日作品 (2025-12-27)
-![Daily Art](gallery/art_2025-12-27.png)
+### 🖼️ 今日作品 (2025-12-28)
+![Daily Art](gallery/art_2025-12-28.png)
 
 ---
 *查看 [gallery/](gallery/) 目录浏览历史作品*
